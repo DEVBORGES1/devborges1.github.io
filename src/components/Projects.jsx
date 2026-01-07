@@ -10,7 +10,7 @@ const Projects = () => {
     const projects = [
         {
             title: 'RCP Sistema de Concursos',
-            description: 'Sistema completo para gestão de concursos.',
+            description: 'Sistema gamificado completo para pessoas que estão se preparando para concursos públicos, organizando e te trazendo uma melhor forma de estudo.',
             link: 'https://github.com/DEVBORGES1/RCP-Sistema-De-Concursos',
             image: rcpImg,
             tech: ['PHP', 'MySQL', 'Bootstrap']
