@@ -11,7 +11,7 @@ const Projects = () => {
         {
             title: 'RCP Sistema de Concursos',
             description: 'Sistema completo para gestão de concursos.',
-            link: 'https://github.com/DEVBORGES1/RCP-Sistema-de-Concursos-e-Processos-Seletivos',
+            link: 'https://github.com/DEVBORGES1/RCP-Sistema-De-Concursos',
             image: rcpImg,
             tech: ['PHP', 'MySQL', 'Bootstrap']
         },
