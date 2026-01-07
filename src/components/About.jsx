@@ -21,7 +21,7 @@ const About = () => {
                     viewport={{ once: true }}
                     transition={{ duration: 0.6 }}
                 >
-                    <h3>Engenheiro Full Stack & SDET Jr</h3>
+                    <h3>Developer Full Stack</h3>
                     <p>
                         Sou um desenvolvedor apaixonado por criar soluções robustas e escaláveis.
                         Com foco em <strong>JavaScript, React, Node.js e Ecossistema Web</strong>,
