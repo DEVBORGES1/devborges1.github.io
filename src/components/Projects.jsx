@@ -17,7 +17,7 @@ const Projects = () => {
         },
         {
             title: 'Expense Control',
-            description: 'Aplicação para controle de gastos para pessoas compulsivas.',
+            description: 'Aplicação gamificada para controle de gastos para pessoas compulsivas.',
             link: 'https://github.com/DEVBORGES1/Expense-Control',
             image: expenseImg,
             tech: ['Python', 'Django', 'n8n Agent']
