@@ -1,12 +1,12 @@
-# 🚀 Meu Portfólio
+#  Meu Portfólio
 
 Bem-vindo ao meu espaço na web! Aqui é onde eu mostro um pouco do que eu sei fazer, meus projetos e a minha jornada como desenvolvedor Full Stack. A ideia desse site é ser mais do que apenas um currículo; é uma vitrine viva do meu trabalho.
 
-## 👋 Sobre Mim
+## Sobre Mim
 
 Sou o João Vitor, um apaixonado por tecnologia. Gosto de pegar problemas complexos e transformar em soluções simples e bonitas. Meu foco principal hoje é **JavaScript, React e Node.js**, mas estou sempre explorando coisas novas como IA e Cyber Security.
 
-## 🛠️ O que tem debaixo do capô?
+##  O que tem debaixo do capô?
 
 Esse site não foi feito com templates prontos. Foi construído linha a linha pensando em performance e experiência do usuário.
 
@@ -15,7 +15,7 @@ Esse site não foi feito com templates prontos. Foi construído linha a linha pe
 - **React Tilt:** Aquele efeitinho 3D nos cards dos projetos que todo mundo gosta.
 - **CSS Moderno:** Nada de frameworks pesados sem necessidade. O design é responsivo e adaptável.
 
-## 📂 Projetos em Destaque
+##  Projetos em Destaque
 
 Na seção de projetos você vai encontrar algumas das coisas que andei codando:
 
@@ -24,7 +24,7 @@ Na seção de projetos você vai encontrar algumas das coisas que andei codando:
 *   **LinkThree:** Um hub central para links, portfólio e mentoria.
 *   **Video Analyzer:** Uma brincadeira séria com IA e processamento de vídeo.
 
-## 🚀 Rodando no seu PC
+##  Rodando no seu PC
 
 Se quiser baixar o código e ver como funciona na sua máquina:
 
@@ -54,4 +54,4 @@ Se quiser trocar uma ideia, falar sobre um projeto ou só dar um oi:
 - **GitHub:** [DEVBORGES1](https://github.com/DEVBORGES1)
 
 ---
-*Feito com 💻 e ☕ por João Vitor.*
+*Feito com 💻 e ☕ por João Vitor mais conhecido como DEVBORGES.*
