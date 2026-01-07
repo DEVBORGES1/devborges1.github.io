@@ -17,22 +17,22 @@ const Projects = () => {
         },
         {
             title: 'Expense Control',
-            description: 'Aplicação para controle de despesas pessoais.',
-            link: 'https://github.com/DEVBORGES1/Expense-Control-js',
+            description: 'Aplicação para controle de gastos para pessoas compulsivas.',
+            link: 'https://github.com/DEVBORGES1/Expense-Control',
             image: expenseImg,
             tech: ['Python', 'Django', 'n8n Agent']
         },
         {
             title: 'LinkThree',
-            description: 'Agregador de links personalizado.',
-            link: 'https://github.com/DEVBORGES1/LinkThree_website',
+            description: 'Se trata de um conjunto de sites, Landing Page, Site do escritório, Portfolio e um site de mentoria que foi feito para minha cliente.',
+            link: 'https://github.com/DEVBORGES1/LINKTHREE',
             image: linkthreeImg,
             tech: ['JavaScript', 'Node.js', 'CSS']
         },
         {
             title: 'Video Analyzer',
-            description: 'Ferramenta para análise de vídeos.',
-            link: 'https://github.com/DEVBORGES1/video-analyzer-tool',
+            description: 'Ferramenta que tem como objetivo analisar vídeos, transformar em mp3 e usando uma IA para transcrever o vídeo e transformar em um roteiro.',
+            link: 'https://github.com/DEVBORGES1/Video-analyzer',
             image: videoImg,
             tech: ['Python', 'AI', 'OpenCV']
         },
