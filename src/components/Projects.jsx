@@ -2,7 +2,7 @@ import React from 'react';
 import StaggeredReveal, { RevealItem } from './StaggeredReveal';
 import { Tilt } from 'react-tilt';
 import rcpImg from '../assets/projects/RCP1.png';
-import expenseImg from '../assets/projects/expense.png';
+import expenseImg from '../assets/projects/ExpenseControl.png';
 import linkthreeImg from '../assets/projects/linkthree.png';
 import videoImg from '../assets/projects/video.png';
 
