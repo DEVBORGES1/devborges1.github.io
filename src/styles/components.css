@@ -729,6 +729,14 @@
 }
 
 
+.reveal-item-wrapper {
+    height: 100%;
+}
+
+.tilt-card-wrapper {
+    height: 100%;
+}
+
 .project-card {
     background: rgba(255, 255, 255, 0.03);
     border-radius: 16px;

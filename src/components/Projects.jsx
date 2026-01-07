@@ -58,7 +58,7 @@ const Projects = () => {
             <StaggeredReveal>
                 <div className="projects-grid">
                     {projects.map((project, index) => (
-                        <RevealItem key={index}>
+                        <RevealItem key={index} className="reveal-item-wrapper">
                             <Tilt options={defaultOptions} className="tilt-card-wrapper">
                                 <div className="project-card">
                                     <div className="project-image-container">
