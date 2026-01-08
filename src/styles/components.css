@@ -409,6 +409,10 @@
         /* Smaller image on mobile */
     }
 
+    .scroll-indicator {
+        display: none;
+    }
+
     .hero-content h1 {
         /* Keeping for safety */
         font-size: 2.5rem;
